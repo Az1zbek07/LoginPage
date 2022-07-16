@@ -20,6 +20,12 @@
             android:layout_height="match_parent">
 
             <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/flower2"
+                android:alpha="0.4" />
+
+            <ImageView
                 android:layout_width="40dp"
                 android:layout_height="40dp"
                 android:background="@drawable/ic_baseline_local_florist_24"
